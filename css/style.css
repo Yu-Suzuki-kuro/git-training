@@ -14,9 +14,14 @@ header h1{
   justify-content: space-between;
   padding: 0px 10px;
 }
-
+.menu-item{
+  list-style: none;
+  font-size: 15px
+}
 .menu-items{
   list-style: none;
+  justify-content: space-between;
+  display: flex;
 }
 
 .menu-item{
