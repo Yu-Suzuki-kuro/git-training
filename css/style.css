@@ -1,0 +1,44 @@
+header{
+  margin-left: 0 auto;
+
+}
+header h1{
+  margin-left: 5px;
+}
+.header-topic{
+  display: flex;
+  vertical-align: baseline;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 12px;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.menu-items{
+  list-style: none;
+}
+
+.menu-item{
+  margin: 3px 8px;
+padding: 0 10px;
+}
+
+
+.img-center{
+  position: relative;
+  margin-top: 15px;
+}
+
+.text{
+  position: absolute;
+  color: black;
+  font-size: 50px;
+  top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%,-50%);
+   -webkit-transform: translate(-50%,-50%);
+   transform: translate(-50%,-50%);
+   margin:0;
+   padding:0;
+}
