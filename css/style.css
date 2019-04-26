@@ -153,4 +153,113 @@ margin-bottom: 50px;
   padding-bottom: 0px;
   margin-bottom: 30px
   }
-  
+
+
+.subject-item-p{
+  font-size: 12px;
+  font-weight: lighter;
+  letter-spacing: 1.5px;
+  line-height: 25px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.image-second{
+  display: flex;
+}
+
+.image-second-company{
+  position: relative;
+  background-color: lightgray;
+}
+
+.image-second-company p{
+  position: absolute;
+  color: black;
+  top: 0;
+  left:0;
+  margin-left: 20px;
+}
+
+.image-second-company img{
+  object-fit: cover;
+}
+
+.image-second-information{
+  position: relative;
+    background-color: lightgray;
+}
+.image-second-information img{
+    object-fit: cover;
+}
+
+.image-second-information p{
+  position: absolute;
+  color: black;
+  top: 0;
+  left:0;
+  margin-left: 20px;
+}
+
+.button1{
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  margin-right: 20px;
+}
+
+.Access1{
+  background-color: lightgray;
+  padding-top: 10px;
+}
+
+.Access1 h1{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+}
+
+.Access1 img{
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+
+.seminer-adress{
+  margin-top: 20px;
+}
+
+dl {
+width:500px;
+clear:both;
+}
+
+dt {
+clear:both;
+width:150px;
+float:left;
+margin-top:10px;
+}
+
+dd {
+  margin-top: 10px;
+width:340px;
+float:right;
+margin:0px;
+}
+.Acess2{
+  display: flex;
+  background-color: lightgray
+}
+
+.aderess{
+  margin-left: 30px;
+  margin-top: 50px;
+  padding-bottom: 40px;
+}
+.semi-aderess{
+  margin-top: 10px;
+}
