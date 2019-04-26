@@ -120,7 +120,11 @@ button{
   margin: 30px auto;
 }
 
-
+.subject-content-item{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
 .subject-content{
   text-align: center;
   font-size:30px;
@@ -264,6 +268,7 @@ margin:0px;
   margin-left: 30px;
   margin-top: 50px;
   padding-bottom: 40px;
+  list-style: none;
 }
 .semi-aderess{
   margin-top: 10px;
